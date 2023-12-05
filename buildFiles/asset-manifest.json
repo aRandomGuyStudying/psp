@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6236f29c.css",
+    "main.js": "/static/js/main.48a8ec9d.js",
+    "static/media/ella-olsson-yb6bm_66Jdk-unsplash.jpg": "/static/media/ella-olsson-yb6bm_66Jdk-unsplash.0c727dd7446f2e19cb39.jpg",
+    "static/media/notFoundIco.svg": "/static/media/notFoundIco.9c782f5ba6bac411c7a55bf8a254ef98.svg",
+    "static/media/instagram.svg": "/static/media/instagram.cb3365981befbba1e7aecaf626f28e33.svg",
+    "static/media/phone.svg": "/static/media/phone.456d32d63bb3926b43d52e87e416b5c8.svg",
+    "static/media/waze.svg": "/static/media/waze.83b29c57154cbd033f14e589cd23d2fe.svg",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.9401b7b83923d0aa4e2e09ac611bbb09.svg",
+    "static/media/gmaps.svg": "/static/media/gmaps.2cb51e15d3da92e439b57eebb5657610.svg",
+    "static/media/address.svg": "/static/media/address.3b629557a52729630ab060c6f87ba263.svg",
+    "static/media/facebook.svg": "/static/media/facebook.e5c28cee234a1663fe77e6d3836a9cd5.svg",
+    "static/media/logout.svg": "/static/media/logout.ba802b8f64368f43e15261005c65f641.svg",
+    "static/media/account-icon.svg": "/static/media/account-icon.5c554ad13a9b1a0f8b4100f72cbfd01d.svg",
+    "main.6236f29c.css.map": "/static/css/main.6236f29c.css.map",
+    "main.48a8ec9d.js.map": "/static/js/main.48a8ec9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6236f29c.css",
+    "static/js/main.48a8ec9d.js"
+  ]
+}
