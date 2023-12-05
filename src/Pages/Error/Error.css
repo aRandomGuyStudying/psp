@@ -1,0 +1,15 @@
+.error-page-header {
+  font-size: 3rem;
+  color: var(--text-color-main);
+}
+
+.error-page-message {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: var(--text-color-main);
+}
+
+.not-found-ico {
+  width: 10rem;
+  height: 10rem;
+}

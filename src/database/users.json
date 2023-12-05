@@ -1,0 +1,26 @@
+{
+  "sebastian": {
+    "username": "sebastian",
+    "password": "changeme",
+    "firstName": "Sebastian",
+    "lastName": "Silva",
+    "phone": "3175462034",
+    "email": "sebastian@gmail.com"
+  },
+  "jhon": {
+    "username": "jhon",
+    "password": "doe",
+    "firstName": "jhon",
+    "lastName": "doe",
+    "phone": "3175462034",
+    "email": "jhon@gmail.com"
+  },
+  "jane": {
+    "username": "jane",
+    "password": "doe",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "phone": "3175462034",
+    "email": "jane@gmail.com"
+  }
+}

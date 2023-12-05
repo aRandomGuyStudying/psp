@@ -1,0 +1,130 @@
+.account-inner-container {
+  width: 50rem;
+  padding: 2rem;
+  display: flex;
+  min-height: 23rem;
+  background-color: var(--accent-color-tertiary);
+  border-radius: 3rem;
+}
+
+.account-inner-container nav {
+  display: flex;
+  width: 10rem;
+  flex-direction: column;
+  margin-right: 1rem;
+  gap: 0.6rem;
+}
+.account-btn-selector {
+  background: none;
+  border: none;
+  padding: 0.8rem 1rem;
+  border-radius: 1.6rem;
+  background-color: var(--accent-color-secondary-light);
+  font-size: 1.1rem;
+}
+
+.account-btn-selector.active {
+  background-color: var(--background-color);
+}
+
+.account-page-info {
+  display: flex;
+  flex-direction: column;
+  width: 35rem;
+  height: 100%;
+  border-radius: 1.6rem;
+  padding: 0.4rem 1rem;
+  background-color: azure;
+}
+
+.account-info-field {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.account-info-field p {
+  width: 6rem;
+}
+
+.account-info-input {
+  border: none;
+  background: none;
+  padding: 0.3rem 0.5rem;
+  width: 100%;
+  background-color: var(--background-input);
+  font-size: 1rem;
+}
+
+.account-info-save {
+  background: none;
+  border: none;
+  padding: 0.6rem 0.8rem;
+  background-color: var(--accent-color-tertiary);
+  color: var(--background-color);
+  font-size: 1.1rem;
+  border-radius: 2rem;
+}
+
+.account-reservations-title {
+  margin-top: 1rem;
+  font-size: 1.6rem;
+  text-align: center;
+}
+
+.reservation-placeholder {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.account-reservations {
+  margin-top: 2rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.account-reservations-list ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.account-page-reservation-selector {
+  background-color: transparent;
+  border: 1px solid var(--accent-color-secondary-light);
+  background-color: var(--background-color);
+  color: var(--accent-color-secondary-light);
+  padding: 0.6rem 0.8rem;
+  width: 5rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.account-page-reservation-selector.active {
+  color: var(--background-color);
+  background-color: var(--accent-color-tertiary);
+}
+
+.account-reservation-detail {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+.account-page-reservation-field {
+  margin-bottom: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.1rem;
+  border-bottom: 1px solid #9995;
+}
+
+.account-page-reservation-field p:first-child {
+  width: 6rem;
+  border-right: 1px solid #9995;
+}
