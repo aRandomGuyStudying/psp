@@ -21,3 +21,5 @@ Para correr la aplicación, se puede ejecutar el comando `npm start` dentro de l
 En caso tal que no se desee instalar las dependencias (por tamaño o para evitar tener archivos extra), el repositorio contiene los archivos de Producción listos para ser ejecutados. Para poder hacer esto, se puede usar un servidor web sencillo como Nginx (si se tiene instalado) o, se puede usar `serve` de NodeJS para servir los archivos
 
 Para usar "serve" se ejecuta `npm i -g serve`, una vez instalado se navega a la carpeta buildFiles dentro de una terminal y se ejecuta el comando `serve -s .` o `serve -s buildFiles` desde el directorio raíz
+
+Copyright (c) Sebastian Silva.
